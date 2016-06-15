@@ -1,0 +1,12 @@
+{
+  "name": "ExpenseTracker",
+  "version": "1.0.0",
+  "description": "An expense tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "ryan webb",
+  "license": "ISC"
+}
